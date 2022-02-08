@@ -1,6 +1,6 @@
 // This is extension from part1
 // We have 2 components which are sending transactions to component_c (scoreboard)
-// comp_a and comp_b have analysis ports which are broardcast ports.
+// comp_a and comp_b have analysis ports which are broadcast ports.
 // comp_c has 2 imp ports, remember analysys imp ports has write function to implement
 // since we have 2, we need to have a different name for these functions 
 
